@@ -12,7 +12,7 @@ Jinja2==2.10.3
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 opencv-contrib-python==4.1.1.26
-#object_detection-0.0.3.tar
+object_detection-0.0.3.tar
 Markdown==3.1.1
 MarkupSafe==1.1.1
 numpy==1.17.2
